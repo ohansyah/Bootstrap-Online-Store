@@ -1,0 +1,41 @@
+.fa-active {
+  color: #198754;
+}
+
+.mb-6 {
+  margin-bottom: 3.25rem !important;
+}
+
+.mb-7 {
+  margin-bottom: 3.5rem !important;
+}
+
+.mb-8 {
+  margin-bottom: 4rem !important;
+}
+
+.mb-9 {
+  margin-bottom: 4.5rem !important;
+}
+
+.mb-10 {
+  margin-bottom: 5rem !important;
+}
+
+.card-bg-image {
+  background-image: url("../assets/accessories/e65f5df7.svg");
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+
+/* styling href */
+a {
+  color: #198754;
+  text-decoration: none;
+}
+
+/* styling href hover */
+a:hover {
+  color: #75b798;
+  transition: 0.3s;
+}
